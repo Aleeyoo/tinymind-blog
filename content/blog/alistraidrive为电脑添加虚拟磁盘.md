@@ -9,15 +9,20 @@ date: 2025-10-18T05:47:06.191Z
 
 需下载工具：**Alist、AlistHelper、Rclone**
 下载地址：
-Alist：[AlistGo/alist GitHub Releases](https://github.com/AlistGo/alist/releases/tag/v3.42.0)
-AlistHelper：[Xmarmalade/alisthelper GitHub Releases](https://github.com/Xmarmalade/alisthelper/releases/tag/v0.2.0)
-Rclone：[rclone/rclone GitHub Releases](https://github.com/rclone/rclone/releases)
+
+> Alist：[AlistGo/alist GitHub Releases](https://github.com/AlistGo/alist/releases/tag/v3.42.0)
+> 
+> AlistHelper：[Xmarmalade/alisthelper GitHub Releases](https://github.com/Xmarmalade/alisthelper/releases/tag/v0.2.0)
+> 
+> Rclone：[rclone/rclone GitHub Releases](https://github.com/rclone/rclone/releases)
 
 ## 🔧AlistHelper配置步骤
 
 1. 解压Alist和Rclone，记录.exe文件路径；
 2. 打开AlistHelper，在设置中配置对应文件地址；
 3. 重启Helper后打开WebUI（默认账号：admin，随机密码需在WebUI修改）。
+
+![1.png](https://raw.github.com/Aleeyoo/note-gen-image-sync/main/26109181-6a17-4526-b756-a76e4f73a7c3.png)
 
 ## 🌐挂载云盘示例（夸克网盘）
 
@@ -35,6 +40,16 @@ Rclone：[rclone/rclone GitHub Releases](https://github.com/rclone/rclone/releas
 > 查看注册表，Win + r，输入 regedit，回车；
 > 查看`计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion`下注册表地址，对比是否修改；
 > 确保地址正确，重新安装.NET，不需要重启。
+
+![2.png](https://raw.github.com/Aleeyoo/note-gen-image-sync/main/61e4c82c-bb30-47c1-a255-4d850e064a15.png)
+
+配置如图：
+
+![3.png](https://raw.github.com/Aleeyoo/note-gen-image-sync/main/298fff07-5ecd-4c9b-a053-32c671f8f085.png)
+
+# 😋最终效果
+
+![4.png](https://raw.github.com/Aleeyoo/note-gen-image-sync/main/43cd2a9b-631d-469c-809a-e4c2a37dacbc.png)
 
 # 📑问题总结
 
@@ -58,3 +73,17 @@ Rclone：[rclone/rclone GitHub Releases](https://github.com/rclone/rclone/releas
 > 触发器：开始任务→启动时高级设置→延迟任务时间 30s
 > 操作：启动程序→程序或脚本→粘贴 RaiDrive.exe 文件地址
 > 条件：电源→关闭如果计算机改用电池电源，则停止
+
+---
+
+<div style="display:flex; gap:8px; flex-wrap:wrap; align-items:center;">
+  <a href="https://www.ifdian.net/a/leoowa" target="\_blank" rel="noopener noreferrer" style="text-decoration:none">
+    <img src="https://raw.github.com/Aleeyoo/note-gen-image-sync/main/b608f211-4aec-4994-9d43-8f80c150c21d.gif" style="width:32px; height:32px; border:0">
+  </a>
+  <a href="https://github.com/Aleeyoo" target="\_blank" rel="noopener noreferrer" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Aleeyoo-3498db?style=for-the-badge&logo=blogger&logoColor=white" style="height:32px; width:auto; border:0">
+  </a>
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="\_blank" rel="noopener noreferrer" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/CC%20BY--NC--SA%204.0-9b59b6?style=for-the-badge&logo=creative-commons&logoColor=white" style="height:32px; width:auto; border:0">
+  </a>
+</div>
