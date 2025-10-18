@@ -60,10 +60,12 @@ date: 2025-10-18T05:47:06.191Z
 - Alist开机自启：创建.vbs脚本（内容见原文）→生成快捷方式→放入Startup文件夹；
 
 > 在 Alist 安装目录下创建一个.vbs 的文件，内容为
+> 
 > ```shell
 > Set Shell = CreateObject("WScript.Shell")
 > Shell.Run "cmd.exe /k cd ./ && alist server",vbhide
 > ```
+> 
 > 创建快捷方式，并放到 C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup 路径下
 
 - RaiDrive后台运行：任务计划管理器创建任务，配置启动时延迟30秒运行，电源选项设为"使用电池时停止"。
@@ -74,16 +76,3 @@ date: 2025-10-18T05:47:06.191Z
 > 操作：启动程序→程序或脚本→粘贴 RaiDrive.exe 文件地址
 > 条件：电源→关闭如果计算机改用电池电源，则停止
 
----
-
-<div style="display:flex; gap:8px; flex-wrap:wrap; align-items:center;">
-  <a href="https://www.ifdian.net/a/leoowa" target="\_blank" rel="noopener noreferrer" style="text-decoration:none">
-    <img src="https://raw.github.com/Aleeyoo/note-gen-image-sync/main/b608f211-4aec-4994-9d43-8f80c150c21d.gif" style="width:32px; height:32px; border:0">
-  </a>
-  <a href="https://github.com/Aleeyoo" target="\_blank" rel="noopener noreferrer" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Aleeyoo-3498db?style=for-the-badge&logo=blogger&logoColor=white" style="height:32px; width:auto; border:0">
-  </a>
-  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="\_blank" rel="noopener noreferrer" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/CC%20BY--NC--SA%204.0-9b59b6?style=for-the-badge&logo=creative-commons&logoColor=white" style="height:32px; width:auto; border:0">
-  </a>
-</div>
