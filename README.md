@@ -1,3 +1,4 @@
-# TinyMind Blog
+# Aleeyoo の Blog
 
-Write blog posts and thoughts at https://tinymind.me with data stored on GitHub.
+Thanks for  TinyMind Blog。
+
