@@ -3,11 +3,7 @@
 <div style="margin-bottom: 12px;">
 <img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<a href="https://github.com/Aleeyoo" target="_blank" rel="noopener noreferrer" style="text-decoration:none; transition: transform 0.2s;">
-    <img src="https://img.shields.io/badge/Aleeyoo-3498db?style=for-the-badge&logo=blogger&logoColor=white" 
-         style="height:32px; width:auto; border:0; border-radius:4px; transition: opacity 0.3s;">
-  </a>
-
+<a href="https://aleeyoo.github.io/leoowa/" target="\_blank" rel="noopener noreferrer" style="text-decoration:none">     <img src="https://img.shields.io/badge/Buguu\\\`Blog-3498db?style=for-the-badge&logo=blogger&logoColor=white"           style="height:32px; width:auto; border:0"           alt="">   </a>
 </div>
 
 ## 学一点
