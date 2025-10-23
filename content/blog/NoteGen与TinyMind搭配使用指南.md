@@ -15,7 +15,7 @@ date: 2025-10-23
    * 选择GitHub平台并创建Access Token（需勾选repo权限）
    * 自定义同步仓库名填写"tinymind-blog"
    * 确认仓库状态显示为"可用"
-     ![屏幕截图 2025-10-23 172755.png](https://raw.githubusercontent.com/Aleeyoo/note-gen-image-sync/main/a8333a4c-cc06-4550-af00-474c9aae4b8c.png)
+![屏幕截图 2025-10-23 172755.png](https://raw.githubusercontent.com/Aleeyoo/note-gen-image-sync/main/a8333a4c-cc06-4550-af00-474c9aae4b8c.png)
 
 ### 🖼️ **图片处理**
 
