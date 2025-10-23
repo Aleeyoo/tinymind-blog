@@ -1,3 +1,8 @@
+---
+title: NoteGen与TinyMind奇妙搭配
+date: 2025-10-23T09:51:16.992Z
+---
+
 ## 介绍
 
 [NoteGen](https://notegen.top/) 作为一个将笔记同步到GitHub仓库的笔记软件。
@@ -7,4 +12,4 @@
 ## 搭配
 
 通过[教程](https://tinymind.me/blog/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F)创建仓库后，按照NoteGen教程步骤
-
+![屏幕截图 2025-10-23 172755.png](https://raw.githubusercontent.com/Aleeyoo/tinymind-blog/main/assets/images/2025-10-23/1761213055709.png)
